@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Materi Android</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Materi</string>
+    <string name="isi_placeholder">Isi</string>
+    <string name="materi_info_placeholder">Here is some news</string>
+    <string name="isi_activities">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+    <string name="isi_services">Service aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="isi_broadcast">broadcast bbbbbbbbbbbbbbbbbbbbbbbbbb</string>
+    <string name="isi_content">content jnjjjksssssssssssssssssss</string>
+    <string name="isi_intent">intent jjkkkkkkkkkkkkkkkkk</string>
+
+    <string name="isi_materi">
+        <item>Klik Disini Untuk Lihat Materi Activities</item>
+        <item>Klik Disini Untuk Lihat Materi Services</item>
+        <item>Klik Disini Untuk Lihat Materi Broadcast Receivers</item>
+        <item>Klik Disini Untuk Lihat Materi Content Providers</item>
+        <item>Klik Disini Untuk Lihat Materi Intent</item>
+    </string>
+
+    <string-array name="materi_titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Broadcast Receivers</item>
+        <item>Content Providers</item>
+        <item>Intent</item>
+
+    </string-array>
+
+    <string-array name="materi_info">
+        <item>Klik Disini Untuk Lihat Materi Activities</item>
+        <item>Klik Disini Untuk Lihat Materi Services</item>
+        <item>Klik Disini Untuk Lihat Materi Broadcast Receivers</item>
+        <item>Klik Disini Untuk Lihat Materi Content Providers</item>
+        <item>Klik Disini Untuk Lihat Materi Intent</item>
+    </string-array>
+
+    <array name="materi_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+    </array>
+
+</resources>
